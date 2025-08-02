@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashmidulashani&label=Profile%20views&color=0e75b6&style=flat" alt="rashmidulashani" /> </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px height = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px height = 225px></picture>
 
 <p>I'm second-year IT undergraduate at Horizon Campus with a keen interest in Web Development. While I'm still building my foundational knowledge, I'm enthusiastic about learning new skills and technologies in the field. 
 
