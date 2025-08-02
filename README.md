@@ -5,7 +5,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 275px height = 275px></picture>
 
-<p>I'm a second-year IT undergraduate at Horizon Campus with a keen interest in Web Development. While I'm still building my foundational knowledge, I'm enthusiastic about learning new skills and technologies in the field. 
+<p style="text-align: justify;">I'm a second-year IT undergraduate at Horizon Campus with a keen interest in Web Development. While I'm still building my foundational knowledge, I'm enthusiastic about learning new skills and technologies in the field. 
 
 I'm eager to explore opportunities that allow me to grow and contribute to web development projects! 🧑‍💻</p>
 
