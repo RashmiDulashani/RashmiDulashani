@@ -1,17 +1,28 @@
 <h1 align="center">Hi 👋, I'm Rashmi Dulashani</h1>  
-<h3 align="center">IT Undergraduate | Aspiring Web Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Front-End+Developer;Aspiring+Full-Stack+Developer;"></a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashmidulashani&label=Profile%20views&color=0e75b6&style=flat" alt="rashmidulashani" /> </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 275px height = 275px></picture>
-
-<p style="text-align: justify;">I'm a second-year IT undergraduate at Horizon Campus with a keen interest in Web Development. While I'm still building my foundational knowledge, I'm enthusiastic about learning new skills and technologies in the field. 
-
-I'm eager to explore opportunities that allow me to grow and contribute to web development projects! 🧑‍💻</p>
-
+<table align="center">
+ <tr border="none">
+  <td width="50%" align="left">
+  
 - 🧑‍🎓 I’m an Undergraduate at <b>Horizon Campus</b>
+
+- 🌱 I’m currently learning <b>PHP</b>
+
 - 📫 How to reach me **dulashanirsh@gmail.com**
 
+ </td>
+
+ <td width="50%" align="center">
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px height = 250px></picture>
+ </td>
+</tr>
+</table>
 
 ---
 
