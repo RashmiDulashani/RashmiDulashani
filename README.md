@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashmidulashani&label=Profile%20views&color=0e75b6&style=flat" alt="rashmidulashani" /> </p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
+<br>
 <p>I'm committed to continuous learning, working hard, and taking responsibility to grow professionally in a reputed and ethical organization. I welcome challenges that help me evolve and sharpen my technical skills in the field of software and web development.</p>
   
 - 🧑‍🎓 I'm an Undergraduate at <b>Horizon Campus</b>
