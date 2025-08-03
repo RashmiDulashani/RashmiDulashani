@@ -6,23 +6,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashmidulashani&label=Profile%20views&color=0e75b6&style=flat" alt="rashmidulashani" /> </p>
 
-<table align="center">
- <tr border="none">
-  <td width="50%" align="left">
+<a target="_blank" align="center">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px height = 250px>
+</a>
   
 - 🧑‍🎓 I’m an Undergraduate at <b>Horizon Campus</b>
 
 - 🌱 I’m currently learning <b>PHP</b>
 
 - 📫 How to reach me **dulashanirsh@gmail.com**
-
- </td>
-
- <td width="50%" align="center">
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px height = 250px></picture>
- </td>
-</tr>
-</table>
 
 ---
 
