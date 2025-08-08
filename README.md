@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Front-End+Developer;Aspiring+Full-Stack+Developer;"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rashmidulashani&label=Profile%20views&color=0e75b6&style=flat" alt="rashmidulashani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rashmidulashani&label=Profile%20views&color=0e75b6&style=flat" alt="rashmidulashani"/> </p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
 
@@ -17,10 +17,6 @@
 - 🌱 I’m currently learning <b>PHP</b>
 
 - 📫 How to reach me **dulashanirsh@gmail.com**
-<br>
-<br>
-
----
 
 ## <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">&nbsp;***My Statistics*** :</h3>
 
@@ -42,8 +38,6 @@
 </table>
 <!--- stats (end) -->
 
----
-
 ## <h3 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="30" height="30" style="margin-right: 20px;">&nbsp;***Languages and Tools*** :</h3>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>
@@ -61,8 +55,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a>
 </p>
 
----
-## <h3 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="30" height="30" style="margin-right: 20px;">&nbsp;***Connect with me*** :</h3>
+## <h3 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="30" height="30" style="margin-right: 20px;">&nbsp;&nbsp;***Connect with me*** :</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/rashmidulashani" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="rashmidulashani" height="50" width="50" /></a>
   <a href="https://www.facebook.com/rash.mi.77398143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmidulashani" height="50" width="50" /></a>
